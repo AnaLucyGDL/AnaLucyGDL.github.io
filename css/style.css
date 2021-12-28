@@ -10,7 +10,8 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    width: 100%;
+    margin: -5% 0 -5% -2%;
+    width: 105%;
 }
 
 
